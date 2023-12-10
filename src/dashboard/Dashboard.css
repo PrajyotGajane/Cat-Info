@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.Dashboard{
+/* border: 2px solid red; */
+height: auto;
+width: 98.9vw;
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+align-items: center;
+}
+.Brid-Box{
+   width: 100%;
+  
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    gap: 20px;
+    /* border: 1px solid blue; */
+}
